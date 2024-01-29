@@ -1,0 +1,7 @@
+node1,node2,distance,priority,time,original
+depot,home,1,1,1,1
+depot,school,2,1,2,1
+depot,grocery,7,2,7,1
+school,grocery,5,2,5,1
+school,hospital,3,3,3,1
+hospital,grocery,3,3,3,1
