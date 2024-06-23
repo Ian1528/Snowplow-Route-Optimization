@@ -1,0 +1,7 @@
+Genetic_Local is the fully implemented genetic algorithm
+Annealing is the fully implemented simulated annealing
+
+
+
+ShortestPaths is very slow runtime basically doesn't work
+SimpleStreetsCrossover can be deleted as it is the unfished genetic algorithm
